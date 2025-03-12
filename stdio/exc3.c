@@ -6,5 +6,5 @@ int main(){
 	printf("%ld\n",x+y);
 	printf("%ld\n", x-y);
 	printf ("%ld\n", x*y);
-	printf("%.3lf", (float)x/y);
+	printf("%lf", (float)x/y);
 }
