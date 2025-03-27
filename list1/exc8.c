@@ -9,12 +9,6 @@ void xep(int a[], int m){
 			}
 		}
 	}
-
-	for (int i=0; i<m; i++){
-		printf("%d ",a[i]);
-	}
-	printf("\n");
-
 }
 void com (int a[], int b[], int m, int n ){
 	int c[2000];
